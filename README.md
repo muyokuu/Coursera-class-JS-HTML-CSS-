@@ -1,2 +1,1 @@
-# Coursera-class-JS-HTML-CSS-
-Coursera class repository
+# Coursera Class Module 2 - Assignment
